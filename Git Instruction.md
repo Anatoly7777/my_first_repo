@@ -1,3 +1,5 @@
+<image src= "https://media.licdn.com/dms/image/D4D12AQFMqmbxwIiXbg/article-cover_image-shrink_720_1280/0/1704773923924?e=2147483647&v=beta&t=nTRiM081ic2_lDDS3Mr3xMB4qS_LWlvdMP4DJCWVXKo"  alt="Описание картинки">  
+
 # Введение в Git: настройка и основные команды
 ## Введение
 Git — один из видов систем контроля версий (или СКВ). Такие системы записывают изменения в набор файлов, а позже позволяют вернуться к определенной версии.
